@@ -20,7 +20,7 @@ public class MinAndMaxNum {
 		System.out.println(num);
 		
 		System.out.println("Biggest number in array is " +num.get(num.size()-1));
-		
+		System.out.println("Hi");
 		System.out.println("Smallest number in array is " +num.get(0));
 
 		
